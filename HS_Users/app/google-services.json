@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "621198331147",
+    "firebase_url": "https://hs-app-63901.firebaseio.com",
+    "project_id": "hs-app-63901",
+    "storage_bucket": "hs-app-63901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621198331147:android:c52e0a0511e52cc11ba60e",
+        "android_client_info": {
+          "package_name": "com.nenu.haindhavasakhthi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621198331147-pf0pl8uldkker0albgs4qvrks0ob3n08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw43uxl0Qvp7olCiKAjjhJR5bc_fP1g4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621198331147-pf0pl8uldkker0albgs4qvrks0ob3n08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621198331147:android:5a82a3ab2a766d3d1ba60e",
+        "android_client_info": {
+          "package_name": "com.nenu.hs_users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621198331147-pf0pl8uldkker0albgs4qvrks0ob3n08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw43uxl0Qvp7olCiKAjjhJR5bc_fP1g4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621198331147-pf0pl8uldkker0albgs4qvrks0ob3n08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
